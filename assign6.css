@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.b {
+    border-style: solid;
+    border-color: black;
+    text-align: center;
+    height: 100vh;
+    width: 100vw;
+}
+
+.c {
+    font-family: Caveat;
+    padding-top: 0px;
+    text-decoration: underline;
+    text-decoration-color: pink;
+}
+
+.d {
+    background-color: #e1f08d;
+    padding: 5px;
+    border-color: black;
+    border-style: solid;
+    border-radius: 10px;
+    font-family: Lobster;
+}
+
+.e {
+    text-align: center;
+    margin: 10px;
+    font-family: Monoton;
+}
+
+.f {
+    font-family: Caveat;
+    text-decoration: underline;
+    text-decoration-color: red;
+}
+
+.g {
+    margin-right: 10px;
+}
+
+.h {
+    margin-top: 20px;
+    color: white;
+    padding-right: 40px;
+    padding-left: 40px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    background-color: blue;
+    border-radius: 10px;
+    border-width: 0px;
+}
+
+.i {
+    background-image: url('https://i.pinimg.com/736x/27/30/13/273013b333755d5d5e1b0324ab6d456a.jpg');
+    background-size: cover;
+    height: 100vh;
+    width: 100vw;
+}
